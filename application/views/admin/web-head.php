@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" type="image/png" sizes="16x16" href="<?php echo base_url();?>assets/dtfavicon.png">
 
-    <title>Dreamtoy Member</title>
+    <title>Member</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
